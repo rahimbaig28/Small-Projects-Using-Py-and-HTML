@@ -3678,3 +3678,8 @@
 
 [2026-09-27] Skipping run: daily quota reached (count=1, target=1).
 [2026-09-27] Skipping run: daily quota reached (count=1, target=1).
+[2026-09-28] New day: target_runs=1
+[2026-09-28] Proceeding with run #1 of target 1.
+[2026-09-28T21:57:29.805972Z] Prompt generation FAILED: RuntimeError: HTTP 401: {"error":{"message":"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.","type":"insufficient_quota","code":401}}
+
+[2026-09-28] Skipping run: daily quota reached (count=1, target=1).
