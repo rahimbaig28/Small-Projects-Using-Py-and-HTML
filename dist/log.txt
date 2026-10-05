@@ -3739,3 +3739,13 @@
 [2026-10-04T21:20:01.602859Z] Prompt generation FAILED: RuntimeError: HTTP 401: {"error":{"message":"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.","type":"insufficient_quota","code":401}}
 
 [2026-10-04] Skipping run: daily quota reached (count=2, target=2).
+[2026-10-05] New day: target_runs=4
+[2026-10-05] Proceeding with run #1 of target 4.
+[2026-10-05T22:35:44.905264Z] Prompt generation FAILED: RuntimeError: HTTP 401: {"error":{"message":"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.","type":"insufficient_quota","code":401}}
+
+[2026-10-05] Proceeding with run #2 of target 4.
+[2026-10-05T22:35:55.166485Z] Prompt generation FAILED: RuntimeError: HTTP 401: {"error":{"message":"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.","type":"insufficient_quota","code":401}}
+
+[2026-10-05] Proceeding with run #3 of target 4.
+[2026-10-05T22:36:05.373032Z] Prompt generation FAILED: RuntimeError: HTTP 401: {"error":{"message":"You exceeded your current quota, add credits at https://console.perplexity.ai/project/billing.","type":"insufficient_quota","code":401}}
+
